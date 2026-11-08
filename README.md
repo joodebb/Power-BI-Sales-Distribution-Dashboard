@@ -7,7 +7,8 @@ The dashboard transforms sales data into meaningful visual insights, enabling st
 The solution provides a consolidated view of sales performance through interactive visualisations, dynamic filters and geographical analysis, supporting data-driven decision-making and improved business performance monitoring.
 
 
-Key Features & Functionality
+           Key Features & Functionality
+	   
 •	Total Sales KPI: Provides a high-level overview of overall sales performance.
 •	Monthly Sales Analysis: Compares actual sales against sales targets to identify performance trends and variances.
 •	Top 3 Customers: Identifies the highest-value customers based on actual sales contribution.
@@ -19,7 +20,7 @@ Key Features & Functionality
 •	Regional Filtering: Allows users to explore sales performance across specific regions.
 
 
-Business Value
+    Business Value
 The dashboard provides business stakeholders with a centralised view of sales performance, helping them to:
 •	Monitor overall revenue and track progress against sales targets.
 •	Identify high-value customers and understand customer contribution.
@@ -27,7 +28,8 @@ The dashboard provides business stakeholders with a centralised view of sales pe
 •	Compare regional sales performance and geographical distribution.
 •	Identify weekly and monthly sales trends to support forecasting and planning.
 •	Make informed decisions using interactive, data-driven insights.
-Technologies & Skills
+
+           Technologies & Skills
 •	Microsoft Power BI
 •	Data Visualisation and Dashboard Development
 •	Business Intelligence and Reporting
@@ -35,5 +37,6 @@ Technologies & Skills
 •	Sales Performance Analysis
 •	Interactive Data Filtering and Reporting
 •	Trend and Comparative Analysis
-Project Outcome
+
+             Project Outcome
 Developed an interactive sales analytics dashboard that consolidates key sales metrics into a single reporting interface. The solution enables users to explore sales performance from multiple perspectives, identify business trends and gain actionable insights to support strategic and operational decision-making.
